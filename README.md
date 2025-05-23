@@ -24,19 +24,15 @@
             font-weight: bold;
             color: #0077b6;
         }
-        img {
-            width: 600px;
-            border-radius: 10px;
-            margin-top: 20px;
-        }
     </style>
 </head>
 <body>
     <h1>👋 Olá, seja bem-vindo! 🌪️</h1>
     <p>Meu nome é <strong>Arthur</strong> e estou cursando <strong>Desenvolvimento de Sistemas</strong> no SENAI.</p>
-    <p>Meu sonho é ser <strong>PRF</strong> e a velocidade me fascina! Amo adrenalina! 🚗💨</p>
-    <p>Acesse meu Colab aqui: <a href="https://colab.research.google.com/" target="_blank">Colab Google 🍀🦈🔥</a></p>
-    <p>Siga-me no Instagram: <a href="https://www.instagram.com/hx_mayworm/" target="_blank">@hx_mayworm</a></p>
-    <img src="URL_DA_IMAGEM_PORSCHE" alt="Porsche">
+    <p>Quero ser <strong>PRF</strong> e a velocidade me fascina! Amo adrenalina! 🚗💨</p>
+    <p>Amo música! 🎵</p>
+    <p>Acesse meu Colab aqui: <a href="https://colab.research.google.com/" target="_blank">Colab Google 🍀🦈</a></p>
+    <p>Siga-me no Instagram: <a href="https://www.instagram.com/hx_mayworm/" target="_blank">@hx_mayworm</a> 🔥</p>
 </body>
 </html>
+
